@@ -61,7 +61,7 @@ Il sito è composto da un'unica pagina ([index.html](index.html)) divisa in sezi
 ## Struttura delle cartelle
 
 ```
-ProjectWork_Unipegaso_L31-Demo/
+Project_Work_Unipegaso_L31-Demo/
 ├── index.html          # Pagina principale del sito
 ├── css/
 │   └── style.css       # Foglio di stile personalizzato
